@@ -121,8 +121,3 @@ Through this project, I gained a strong understanding of:
 
 --- Nikhil Kumar
 
-### One-line GitHub Tagline
-
-**"Implemented a complete Deep Neural Network for Binary Classification from scratch using Python and NumPy, including forward propagation, backpropagation, gradient descent optimization, and activation functions without using deep learning frameworks."**
-
-This description will make the project look significantly stronger on GitHub and clearly showcase your coding and machine learning fundamentals.
